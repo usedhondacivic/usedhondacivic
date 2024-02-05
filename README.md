@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usedhondacivic , but I also go by Michael.
 - 👀 I’m primarily interested in robotics, but often stray into web and video game development.
-- 🌱 I’m a Senior Computer Science student at Cornell University, minoring in Robotics.
+- 🌱 I have a BS in Computer Science and a Minor in Robotics from Cornell University, and am currently working on my Masters in Electrical and Computer Engineering.
 - 📫 Reach me at mmc323@cornell.edu or check out my website [michael-crum.com](https://michael-crum.com).
 
 <!---
